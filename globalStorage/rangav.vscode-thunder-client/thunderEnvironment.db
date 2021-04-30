@@ -1,0 +1,1 @@
+{"default":true,"data":[{"name":"BaseDsUrl","value":"https://{{Client}}-{{Env}}.wiserskills.net/ds"},{"name":"Client","value":"bdf"},{"name":"Env","value":"qa"},{"name":"ApiKey","value":"WSK345Q1HA"}],"name":"WSK REMOTE","modified":"2021-04-24T13:19:07.911Z","_id":"596b5411-f72a-45d5-9dc0-539bd916ed42","createdAt":{"$$date":1619268751558},"updatedAt":{"$$date":1619270347911}}

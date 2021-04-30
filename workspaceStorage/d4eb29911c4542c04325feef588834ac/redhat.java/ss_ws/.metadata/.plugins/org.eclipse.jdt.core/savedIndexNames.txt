@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Daniel\AppData\Roaming\Code\User\workspaceStorage\d4eb29911c4542c04325feef588834ac\redhat.java\ss_ws\.metadata\.plugins\org.eclipse.jdt.core

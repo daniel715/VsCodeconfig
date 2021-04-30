@@ -1,0 +1,33 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": -1,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "sync.gist": "asd",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": true
+}
